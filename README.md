@@ -1,5 +1,7 @@
 # Vega Continuum
 
+## Conceptual Framework | English
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![VSP Compliant](https://img.shields.io/badge/VSP-Compliant-green.svg)]()
 [![Author: Æ](https://img.shields.io/badge/Author-Æ-blue.svg)]()
@@ -30,13 +32,22 @@ a framework within the Resonance Data and QIRC paradigm.
 
 - `paper/` — LaTeX dissertation
 - `whitepaper/` — Markdown white paper
+- `README_*.md` — Translations in 8 languages
 
 ## VSP Compliance
+
+This publication adheres to the **Vega Safety Protocol (VSP)**:
 
 - ✔ Conceptual level only
 - ✔ No algorithms or code
 - ✔ No system architectures
 - ✔ No business secrets
+
+## Citation
+
+```
+Vega, A. E. (2025). Vega Continuum: A Conceptual Framework.
+```
 
 ---
 
